@@ -1,0 +1,42 @@
+import os
+os.system("clear")
+os.system("figlet Nobet Tim Tool")
+
+print("--------CODED @ZEGNHT--------")
+print("1-SQLMAP")
+print("2-PORT TARAMA")
+print("3-IP ADRESIM")
+sqlmap = input("Lütfen Bir Sayı Giriniz;")
+if(sqlmap == "1"):
+    os.system("clear")
+    print("İşlem Başlatildi!")
+    print("3")
+    print("2")
+    print("1")
+    print("0")
+    print("İşlem Başarili! NHT İyi Kullanimlar Diler..")
+    os.system("python2 sqlmap.py")
+metasploit = input("Lütfen Bir Sayı Giriniz;")
+if(metasploit == "2"):
+    os.system("clear")
+    print("İşlem Başlatildi!")
+    os.system("clear")
+    print("3")
+    print("2")
+    print("1")
+    print("0")
+    print("İşlem Başarili! NHT İyi Kullanimlar Diler..")
+    os.system("clear")
+    os.system("python2 piescan.py")
+ip = input("Lütfen Bir Sayı Giriniz;")
+if(ip == "3"):
+    os.system("clear")
+    print("İşlem Başlatildi!")
+    print("3")
+    print("2")
+    print("1")
+    print("0")
+    print("İşlem Başarili! NHT İyi Kullanimlar Diler..")
+    os.system("ifconfig")
+    
+
